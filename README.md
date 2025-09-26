@@ -1,4 +1,3 @@
-# testing
-just testing
+# LEARNING
 
->>> adicionando apenas para relembrar commits e afins
+- Aprendendo programação e relembrando tópicos que já foram estudados.
